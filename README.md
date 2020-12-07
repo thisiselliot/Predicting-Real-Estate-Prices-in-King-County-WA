@@ -1,4 +1,4 @@
-# Predicting Real Estate Prices in King County WA
+# Predicting Real Estate Prices in King County, WA
 ![seattle](Images/seattle.jpg)
 
 ## Overview
