@@ -1,5 +1,5 @@
 # Predicting Real Estate Prices in King County WA
-![seattle](Images/max-delsid-VlVhOro5tf4-unsplash (1).jpg)
+![seattle](Images/max-delsid-VlVhOro5tf4-unsplash.jpg)
 
 ## Overview
 
