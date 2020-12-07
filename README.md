@@ -5,7 +5,7 @@
 
 This project predicts real estate prices in King County, WA for 2014–2015 using Python, SciKit Learn, and Statsmodels. Accurate predictions for sale prices are used in real estate for making strategic decisions.
 
-## methodology
+## Methodology
 - Exploratory data analysis
 
 - Data cleaning and feature engineering
