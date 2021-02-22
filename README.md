@@ -13,10 +13,8 @@ This project predicts real estate prices in King County, WA for 2014–2015 usin
 - Feature selection using recursive feature elimination and modelling using linear regression
 
 ## Repository Structure
-    .
-    ├── Data                                  # folder containing test/train and holdout data
     ├── Images                                # folder containing images 
-    ├── Model                                 # folder containing model and selected fearures 
-    ├── Resuts                                # folder containing prediction results 
-    ├── Revision_History                      # folder containing past revisions
+    ├── Pickles                               # folder containing model parameters 
+    ├── Resuts                                # folder containing predictions 
+    ├── EDA_modelling.ipynb                   # notebook with data preperation and modelling 
     └── README.md                             # repo overview (what you are reading!) 👀 
